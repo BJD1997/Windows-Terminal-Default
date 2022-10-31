@@ -1,4 +1,4 @@
-# Windows Terminal Default
+# Set Windows Terminal as default app
 
 Do you want to set Windows Terminal to be the default console application?
 And are you using Intune?
